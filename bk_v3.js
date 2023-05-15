@@ -36,6 +36,7 @@ class Blockchain{
             const prevBlock= this.chain[i-1];
             
             //
+            
         }
     }
 }
